@@ -1,0 +1,99 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://media.istockphoto.com/id/1439949379/photo/plant-indoor-in-front-of-window-taking-light.jpg?s=612x612&w=0&k=20&c=m6lvg-LYqMaASZRZZObgV7J0CaOyULGFVbXksFcRYow=",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Peace Lily",
+    "category": "Indoor Flowering",
+    "price": 22,
+    "rating": 4.6,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "A hardy plant that purifies indoor air and thrives in low light. A hardy plant that purifies indoor air and thrives in low light. A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmAhPuejsczBVhVsCd3ViPsfeUEcMbWUBPvIYUxIHw2cEIlgmwlxfOY3IFz1NGzK00xV-PwtWp0pz-vmToEuOBCmYF9KfKn-2uvlawMg",
+    "providerName": "NatureNest"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Aloe Vera",
+    "category": "Succulent",
+    "price": 15,
+    "rating": 4.7,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Known for its healing properties and low maintenance care.",
+    "image": "https://m.media-amazon.com/images/I/81XWpVvk5AL._AC_UF1000,1000_QL80_.jpg",
+    "providerName": "GreenLeaf Co."
+  },
+  {
+    "plantId": 4,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Indoor Decorative",
+    "price": 35,
+    "rating": 4.5,
+    "availableStock": 6,
+    "careLevel": "Hard",
+    "description": "A stylish plant with large, glossy leaves perfect for modern interiors.",
+    "image": "https://www.thesill.com/cdn/shop/files/the-sill_Fiddle-Leaf-Fig-Tree_Large_Pallas_Cream_Variant_8735f6bb-bb33-4d96-9858-13dc076566d8.jpg?v=1758661766&width=1946",
+    "providerName": "LeafyWorld"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 16,
+    "rating": 4.9,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "A fast-growing plant that removes toxins and looks beautiful in hanging pots.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-hcIQJCJTArUUjCOHGZxQzQ9gcp3GPU6LXg&s",
+    "providerName": "EcoPlant Hub"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Rubber Plant",
+    "category": "Indoor Decorative",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 9,
+    "careLevel": "Medium",
+    "description": "A glossy-leaved indoor plant that adds a lush, tropical feel to your home.",
+    "image": "https://shop-static.arborday.org/media/0004361_ruby-variegated-rubber-tree.jpeg",
+    "providerName": "NatureNest"
+  }
+  ,
+  {
+    "plantId": 7,
+    "plantName": "Boston Fern",
+    "category": "Air Purifier",
+    "price": 20,
+    "rating": 4.6,
+    "availableStock": 11,
+    "careLevel": "Medium",
+    "description": "A lush green fern that thrives in humid conditions and purifies indoor air.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbK0T0rjyuvRVeHVJFuTbFicP-qEsHI41H1eYAFlEHAVSdtyvfbKid3uATWyJXZlVgy4cEdCbEA6kR6HFLETFU1LCFvRfcstaJB2YRsg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 8,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 25,
+    "rating": 4.8,
+    "availableStock": 7,
+    "careLevel": "Easy",
+    "description": "A nearly indestructible plant that tolerates low light and infrequent watering.",
+    "image": "https://glasswingshop.com/cdn/shop/products/8D2A2067.jpg?v=1595400475&width=533",
+    "providerName": "GreenLeaf Co."
+  }
+]
